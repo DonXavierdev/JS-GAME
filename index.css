@@ -1,0 +1,26 @@
+*{
+    background-color: yellowgreen;
+}
+body{
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    font-weight: bold;
+    
+    font-size: 18px;
+}
+h1{
+    color: gold;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+button{
+    color:#016f32;
+    background: goldenrod;
+    width:150px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
